@@ -1,0 +1,6 @@
+version: '3'
+services:
+  phys:
+    image: phys434:latest
+    command: tail -f /dev/null
+
